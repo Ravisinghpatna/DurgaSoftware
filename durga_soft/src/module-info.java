@@ -1,0 +1,2 @@
+module durga_soft {
+}
